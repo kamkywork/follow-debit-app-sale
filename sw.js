@@ -1,4 +1,4 @@
-const CACHE_NAME = 'collection-app-v1';
+const CACHE_NAME = 'follow-debit-app-v1';
 const urlsToCache = [
   './',
   './index.html',

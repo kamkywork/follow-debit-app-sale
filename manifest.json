@@ -1,6 +1,6 @@
 {
-  "name": "Collection System",
-  "short_name": "FollowApp",
+  "name": "Follow-Debit System",
+  "short_name": "ระบบติดตามยอด",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#edf2f4",
