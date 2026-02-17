@@ -1,6 +1,6 @@
 {
   "name": "Follow-Debit System",
-  "short_name": "ระบบติดตามยอด",
+  "short_name": "ระบบติดตามยอดSale",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#edf2f4",
